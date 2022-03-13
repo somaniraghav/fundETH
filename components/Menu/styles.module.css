@@ -1,0 +1,39 @@
+.menu {
+  position: fixed;
+  top: 0;
+  right: 3.5%;
+  z-index: 1000;
+}
+.mobileMenuContainer {
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  height: 68px;
+  display: flex;
+  justify-content: space-between;
+  justify-items: flex-end;
+}
+
+.item {
+  color: inherit;
+  text-decoration: underline 0.15em rgba(255, 255, 255, 0);
+  border-bottom: 1px solid transparent;
+  border-right: 1px solid transparent;
+  transition: text-decoration-color 300ms !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.button {
+  color: inherit;
+  border-bottom: 1px solid transparent;
+  border-right: 1px solid transparent;
+  transition: text-decoration-color 300ms !important;
+}
+
+.item:hover,
+.item:focus,
+.item:active {
+  text-decoration-color: #7d12ff;
+  background-color: transparent;
+}
