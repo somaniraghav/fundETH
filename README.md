@@ -1,5 +1,5 @@
 <a href=" ">
-    <img src="fundeth.png" alt="fundeth logo" title="fundeth" align="right" height="60" />
+    <img src="assets/fundeth.png" alt="fundeth logo" title="fundeth" align="right" height="60" />
 </a>
 
 # fundETH
