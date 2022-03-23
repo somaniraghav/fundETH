@@ -15,8 +15,9 @@
 fundETH is a next generation crowdfunding platform built on top of Ethereum to provide the safety of blockchains. <br/>
 **Note:** Our smart contract is deployed on Polygon testnet Mumbai for now.
 <br><br>
-Currently the website is deployed at https://fund-eth.vercel.app/<br>
+```Currently the website is deployed at https://fund-eth.vercel.app/<br>
 (Note: Metamask is necessary for the site to function)
+```
 
 ## <a name="two"></a>Tech Stack :rocket:
 - Polygon
