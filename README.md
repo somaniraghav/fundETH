@@ -11,7 +11,7 @@
 4. [Resources](#four)
 
 ## <a name="one"></a>Introduction :smile:
-#### Hola :wave:
+#### Hello!! :wave:
 fundETH is a next generation crowdfunding platform built on top of Ethereum to provide the safety of blockchains. <br/>
 **Note:** Our smart contract is deployed on Polygon testnet Mumbai for now.
 <br><br>
