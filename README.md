@@ -34,7 +34,7 @@ fundETH is a next generation crowdfunding platform built on top of Ethereum to p
 
 To run the code on local device:
 
-```cpp
+```bash
 cd <project_directory>
 npm install
 npm run dev
@@ -44,4 +44,5 @@ Use the code in directory contracts/ and the following resource
 https://docs.polygon.technology/docs/develop/alchemy/
 
 ## <a name="four"></a>Resources
-https://medium.com/openberry/creating-a-simple-crowdfunding-dapp-with-ethereum-solidity-and-vue-js-69ddb8e132dd
+- [Building crowdfunding Dapp with Solidity - Medium Blog](https://medium.com/openberry/creating-a-simple-crowdfunding-dapp-with-ethereum-solidity-and-vue-js-69ddb8e132dd)
+- [Mid Term Report](assets/LBP_Mid_Term_Report.pdf)
