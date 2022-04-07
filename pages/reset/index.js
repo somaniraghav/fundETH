@@ -39,7 +39,7 @@ export default function ForgotPassword() {
             Trouble Logging In?
           </Heading>
           <Text align="center" fontSize={"md"} color={"gray.400"}>
-            Enter your email address and we${"'"}ll send you a link to get back
+            Enter your email address and we{"'"}ll send you a link to get back
             into your account.
           </Text>
         </Stack>
